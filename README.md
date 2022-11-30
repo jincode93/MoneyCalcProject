@@ -1,10 +1,10 @@
 # 🧐 똑똑... 정산하러 왔습니다!
 ## 👀 스크린샷
-<img width="461" alt="스크린샷 2022-11-30 오후 10 22 10" src="https://user-images.githubusercontent.com/111134273/204807707-5ee98e45-6b67-470d-be2f-a672c7dee93f.png">
-<img width="461" alt="스크린샷 2022-11-30 오후 10 22 27" src="https://user-images.githubusercontent.com/111134273/204807721-28ec3bc0-f27d-481a-82a0-b4b9a962911c.png">
-<img width="461" alt="스크린샷 2022-11-30 오후 10 22 38" src="https://user-images.githubusercontent.com/111134273/204807735-7c9e6693-d403-4adc-ad8e-b0760987b3fa.png">
-<img width="461" alt="스크린샷 2022-11-30 오후 10 22 47" src="https://user-images.githubusercontent.com/111134273/204807749-d3e2384c-20f9-4dff-b284-d9c18c32adc4.png">
-<img width="461" alt="스크린샷 2022-11-30 오후 10 23 12" src="https://user-images.githubusercontent.com/111134273/204807764-1d6d903c-ca85-402e-8ac5-e196216cf264.png">
+<img width="461" alt="스크린샷 2022-11-30 오후 10 22 10" src="https://user-images.githubusercontent.com/111134273/204807707-5ee98e45-6b67-470d-be2f-a672c7dee93f.png">{: width="80%" height="80%"}
+<img width="461" alt="스크린샷 2022-11-30 오후 10 22 27" src="https://user-images.githubusercontent.com/111134273/204807721-28ec3bc0-f27d-481a-82a0-b4b9a962911c.png">{: width="80%" height="80%"}
+<img width="461" alt="스크린샷 2022-11-30 오후 10 22 38" src="https://user-images.githubusercontent.com/111134273/204807735-7c9e6693-d403-4adc-ad8e-b0760987b3fa.png">{: width="80%" height="80%"}
+<img width="461" alt="스크린샷 2022-11-30 오후 10 22 47" src="https://user-images.githubusercontent.com/111134273/204807749-d3e2384c-20f9-4dff-b284-d9c18c32adc4.png">{: width="80%" height="80%"}
+<img width="461" alt="스크린샷 2022-11-30 오후 10 23 12" src="https://user-images.githubusercontent.com/111134273/204807764-1d6d903c-ca85-402e-8ac5-e196216cf264.png">{: width="80%" height="80%"}
 
 
 <br>
