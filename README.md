@@ -7,9 +7,9 @@
 	- 이 앱은 복잡하고 💰다양한 유형의 정산💰을 가능하게 할거에요.
 	- 왜나하면 다양한 유형의 정산해야하는 상황이 많고, 생각보다 돈계산은 복잡하기 때문이에요.
 - ### 아이디어 초고 - 어떤 아이디어인가요?
-	![](moneyCalculateAppIdea01.png)
-	![](moneyCalculateAppIdea02.png)
-	![](moneyCalculateAppIdea03.png)
+	![moneyCalculateAppIdea01](https://user-images.githubusercontent.com/111134273/204806683-cc62b130-fbcc-486b-86f8-0326bfd3cecf.png)
+	![moneyCalculateAppIdea02](https://user-images.githubusercontent.com/111134273/204806717-88843520-0ac7-4c5e-810e-6c5e5d582ee3.png)
+	![moneyCalculateAppIdea03](https://user-images.githubusercontent.com/111134273/204806791-705320bb-1d5e-4846-80ee-806d7a1ce925.png)
 
 <br>
 
